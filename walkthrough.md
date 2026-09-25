@@ -24,4 +24,4 @@ The LOCUS Digital Twin is now fully implemented as a PyGame Software-in-the-Loop
 - **Deduplication Logic:** Clicking at $45^\circ$, then $47^\circ$, verified that only one entry remains at $47^\circ$. 
 
 ## Validation Results
-The simulation flawlessly mirrors the PRD logic while incorporating high-level UI/UX additions that make the visual interface tactically viable and memory-efficient.
+The simulation flawlessly mirrors the Hardware logic while incorporating high-level UI/UX additions that make the visual interface tactically viable and memory-efficient.
