@@ -8,7 +8,7 @@
 
 **LOCUS** (Localization of Acoustic Impulse & Directional Threat System) is an edge-compute acoustic threat detection system designed for modern tactical environments. Traditional DSP sampling at high audio rates creates prohibitive CPU overhead and clock drift on low-power nodes.
 
-This repository houses the **Software-in-the-Loop (SIL) Digital Twin** (`Locus_simulation.py`). Because physical acoustic testing with 140+ dB SPL shockwaves presents hardware constraints, this PyGame simulation mathematically validates the Time Difference of Arrival (TDOA) algorithm, wave propagation physics, and ESP32 hardware lockout logic before physical deployment.
+This repository houses the **Software-in-the-Loop (SIL) Digital Twin** (`Locus_simulation.py`). Because physical acoustic testing with 130+ dB SPL shockwaves presents hardware constraints, this PyGame simulation mathematically validates the Time Difference of Arrival (TDOA) algorithm, wave propagation physics, and ESP32 hardware lockout logic before physical deployment.
 
 ---
 
